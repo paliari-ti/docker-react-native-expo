@@ -1,4 +1,4 @@
-FROM node:8.9-alpine
+FROM node:8-alpine
 
 LABEL Mantainer="Daniel Fernando Lourusso <dflourusso@gmail.com>"
 LABEL Description="A docker image for expo-cli"
